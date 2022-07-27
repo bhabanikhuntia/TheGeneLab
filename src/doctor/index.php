@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <script type="text/javascript">location.href = './src/doctor/index.php';</script>
+    <h3>hello doctor</h3>
 </body>
 </html>
